@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 💙
 
-meu nome e Danilo lyma
+meu nome e CAMILA HAPS
 
 - estou estudando na [Alura](https://www.alura.com.br)
 -estou me desenvolvendo na linguagem javaScript
